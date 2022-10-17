@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "target": "ES2016",
+        "module": "CommonJS",
+        "outDir": "../dist",
+        "rootDir": "./",
+        "moduleResolution": "node",
+        "removeComments": true
+    },
+    "include": ["**/*.ts"]
+}
