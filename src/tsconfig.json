@@ -8,5 +8,5 @@
         "moduleResolution": "node",
         "removeComments": true
     },
-    "include": ["**/*.ts"]
+    "include": ["**/*.ts", "1_Creational_Patterns/3_Builder/Builder_UseCase/client.ts"]
 }
